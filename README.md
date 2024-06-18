@@ -6,6 +6,8 @@
 - Quick Sort
 - Merge Sort
 
+"https://yatinnn.github.io/Sorting-Visualiser/"-Visit the WebSite
+
 ### This is built using HTML, CSS, JavaScript <br/>
 
 
